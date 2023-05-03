@@ -2,74 +2,83 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "name": "Bobby Flay",
-        "Years of experience": "30",
-        "Numbers of recipes": "15",
-        "Likes": "800",
-        "chef_img": "https://www.delonghi.com/Global/recipes/multifry/52.jpg"
+        "years_of_exp": "30",
+        "num_of_recipes": "15",
+        "likes": "800",
+        "chef_img": "https://www.papercitymag.com/wp-content/uploads/2018/10/bobby-flay-wc-917-rta-1024x686.jpg",
+        "ratings" : "4.8"
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6z",
         "name": "Gordon Ramsay",
-        "Years of experience": "35",
-        "Numbers of recipes": "27",
-        "Likes": "1200",
-        "chef_img": "https://www.gordonramsayrestaurants.com/assets/Uploads/_resampled/CroppedFocusedImageWyIxMDI0IiwiNzAiLCIxMDAsIiJd/GR-Restaurants-Group-Hero.jpg"
+        "years_of_exp": "35",
+        "num_of_recipes": "27",
+        "likes": "1200",
+        "chef_img": "https://cdn.vox-cdn.com/thumbor/6u_an2XwZ3g3nH7KdPHNJoxpfM4=/0x0:3000x2147/920x613/filters:focal(1260x834:1740x1314):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/52781927/ramsay_HKlead.0.jpg",
+        "ratings" : "4.9"
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71011",
-        "name": "Emeril Lagasse",
-        "Years of experience": "40",
-        "Numbers of recipes": "20",
-        "Likes": "600",
-        "chef_img": "https://www.emerils.com/sites/default/files/styles/chefs_list_image/public/em_logo.png?itok=Xv7eZhdW"
+        "name": "Catherine Ann Cora",
+        "years_of_exp": "40",
+        "num_of_recipes": "20",
+        "likes": "600",
+        "chef_img": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-05/Catherine_ann_cora_%C2%A9courtesyofCatherineAnnCora_0.jpg",
+        "ratings" : "4.7"
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71012",
         "name": "Ina Garten",
-        "Years of experience": "25",
-        "Numbers of recipes": "30",
-        "Likes": "1000",
-        "chef_img": "https://www.insider.com/im/2019/03/5c8e04d59c71c10d9f1bc56a.jpg"
+        "years_of_exp": "25",
+        "num_of_recipes": "30",
+        "likes": "1000",
+        "chef_img": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-05/DominiqueCrenn%C2%A9Jordan-Wise_1.jpg",
+        "ratings" : "4.7"
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f9",
         "name": "Wolfgang Puck",
-        "Years of experience": "50",
-        "Numbers of recipes": "40",
-        "Likes": "1500",
-        "chef_img": "https://www.ocregister.com/wp-content/uploads/migration/8lc/8lc0hj-0811_lxp-l-wolfgang.jpg?w=620"
+        "years_of_exp": "50",
+        "num_of_recipes": "40",
+        "likes": "1500",
+        "chef_img": "https://onecms-res.cloudinary.com/image/upload/v1640661535/8days-migration/chef-wolfgang-puck-web-data.jpg",
+        "ratings" : "4.5"
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f0",
         "name": "Martha Stewart",
-        "Years of experience": "30",
-        "Numbers of recipes": "25",
-        "Likes": "900",
-        "chef_img": "https://media1.s-nbcnews.com/i/newscms/2021_09/1685395/martha-stewart-today-main-210303_37bbd44a760290f6af42e6c37d6aa66f.jpg"
+        "years_of_exp": "30",
+        "num_of_recipes": "25",
+        "likes": "900",
+        "chef_img": "https://images.pexels.com/photos/1397514/pexels-photo-1397514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ratings" : "4.8"
     },
     {
         "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
-        "name": "Mario Batali",
-        "Years of experience": "25",
-        "Numbers of recipes": "18",
-        "Likes": "500",
-        "chef_img": "https://ichef.bbci.co.uk/news/660/cpsprodpb/15412/production/_99164796_p051h8pb.jpg"
+        "name": "Grant Achatz",
+        "years_of_exp": "25",
+        "num_of_recipes": "18",
+        "likes": "500",
+        "chef_img": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-05/ChefAchatz_0.jpg",
+        "ratings" : "4.7"
     },
     {
         "_id": "a713ee936ff5574273f0f769f5c5b20e",
         "name": "Thomas Keller",
-        "Years of experience": "40",
-        "Numbers of recipes": "50",
-        "Likes": "1800",
-        "chef_img": "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202010/928731018.jpg"
+        "years_of_exp": "40",
+        "num_of_recipes": "50",
+        "likes": "1800",
+        "chef_img": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-05/TK_Portrait_%28c%29DEBORAHJONES-6.21.37-PM.jpg",
+        "ratings" : "4.9"
     },
     {
         "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
-        "name": "Julia Child",
-        "Years of experience": "50",
-        "Numbers of recipes": "60",
-        "Likes": "2000",
-        "chef_img": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/00016280680350029570050114950_1.jpg"
+        "name": "Wolfgang Puck",
+        "years_of_exp": "50",
+        "num_of_recipes": "60",
+        "likes": "2000",
+        "chef_img": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-05/Wolfgang%20Puck%20chef_0.jpg",
+        "ratings" : "4.6"
     }
     
     
