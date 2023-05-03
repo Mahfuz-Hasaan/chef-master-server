@@ -1,6 +1,6 @@
 [
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "id": "1",
         "name": "Bobby Flay",
         "years_of_exp": "30",
         "num_of_recipes": "15",
@@ -9,7 +9,7 @@
         "ratings" : "4.8"
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6z",
+        "id": "2",
         "name": "Gordon Ramsay",
         "years_of_exp": "35",
         "num_of_recipes": "27",
@@ -18,8 +18,8 @@
         "ratings" : "4.9"
     },
     {
-        "_id": "f69a695f037cd9484cecaea37ca71011",
-        "name": "Catherine Ann Cora",
+        "id": "3",
+        "name": "Catherine Cora",
         "years_of_exp": "40",
         "num_of_recipes": "20",
         "likes": "600",
@@ -27,7 +27,7 @@
         "ratings" : "4.7"
     },
     {
-        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "id": "4",
         "name": "Ina Garten",
         "years_of_exp": "25",
         "num_of_recipes": "30",
@@ -36,7 +36,7 @@
         "ratings" : "4.7"
     },
     {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "id": "5",
         "name": "Wolfgang Puck",
         "years_of_exp": "50",
         "num_of_recipes": "40",
@@ -45,7 +45,7 @@
         "ratings" : "4.5"
     },
     {
-        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "id": "6",
         "name": "Martha Stewart",
         "years_of_exp": "30",
         "num_of_recipes": "25",
@@ -54,7 +54,7 @@
         "ratings" : "4.8"
     },
     {
-        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "id": "7",
         "name": "Grant Achatz",
         "years_of_exp": "25",
         "num_of_recipes": "18",
@@ -63,7 +63,7 @@
         "ratings" : "4.7"
     },
     {
-        "_id": "a713ee936ff5574273f0f769f5c5b20e",
+        "id": "8",
         "name": "Thomas Keller",
         "years_of_exp": "40",
         "num_of_recipes": "50",
@@ -72,7 +72,7 @@
         "ratings" : "4.9"
     },
     {
-        "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "id": "9",
         "name": "Wolfgang Puck",
         "years_of_exp": "50",
         "num_of_recipes": "60",
