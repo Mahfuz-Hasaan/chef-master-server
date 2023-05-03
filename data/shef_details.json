@@ -7,7 +7,19 @@
         "num_of_recipes": "15",
         "likes": "800",
         "chef_img": "https://www.papercitymag.com/wp-content/uploads/2018/10/bobby-flay-wc-917-rta-1024x686.jpg",
-        "ratings" : "4.8"
+        "ratings" : "4.8",
+        "recipes_name" : {
+            "dish_1_name" : "Tortilla Soup With Avocado Relish",
+            "dish_2_name" : "Lobster Cobb Salad",
+            "dish_3_name" : "Salmon Tacos"
+        },
+        "recipes_img" :{
+            "dish_1_img" : "https://c1.wallpaperflare.com/preview/282/189/103/lures-and-buy-new-desktop-spicy-sugar-freshwater-fish-shoot-and.jpg",
+            "dish_2_img" : "https://c4.wallpaperflare.com/wallpaper/880/576/873/seafood-soup-hot-peppers-greens-lime-wallpaper-preview.jpg",
+            "dish_3_img" : "https://c4.wallpaperflare.com/wallpaper/138/64/931/food-salmon-fish-grilled-salmon-wallpaper-preview.jpg"
+        },
+        "bio" : "Bobby Flay, byname of Robert William Flay, (born December 10, 1964, New York City, New York, U.S.), American chef, restaurateur, and television personality who was best known for his frequent appearances on the cable station Food Network, where he first garnered attention as one of the original competitors on Iron Chef"
+
     },
     {
         "_id" :"0282e0e58a5c404fbd15261f11c2ab6a",
@@ -17,7 +29,18 @@
         "num_of_recipes": "27",
         "likes": "1200",
         "chef_img": "https://cdn.vox-cdn.com/thumbor/6u_an2XwZ3g3nH7KdPHNJoxpfM4=/0x0:3000x2147/920x613/filters:focal(1260x834:1740x1314):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/52781927/ramsay_HKlead.0.jpg",
-        "ratings" : "4.9"
+        "ratings" : "4.9",
+        "recipes_name" : {
+            "dish_1_name" : "Beef Wellington",
+            "dish_2_name" : "Risotto",
+            "dish_3_name" : "Sticky toffee pudding"
+        },
+        "recipes_img" :{
+            "dish_1_img" : "https://c0.wallpaperflare.com/preview/119/354/358/food-lobster-seafood-sea-life.jpg",
+            "dish_2_img" : "https://c1.wallpaperflare.com/preview/651/420/59/rice-vegetables-herbs-vegetarian.jpg",
+            "dish_3_img" : "https://c1.wallpaperflare.com/preview/554/623/732/pudding-vanilla-pudding-raspberries-raspberry-mark.jpg"
+        },
+        "bio" : "Gordon Ramsay, (born November 8, 1966, Johnstone, Scotland), Scottish chef and restaurateur known for his highly acclaimed restaurants and cookbooks but perhaps best known in the early 21st century for the profanity and fiery temper that he freely displayed on television cooking programs."
     },
     {
         "_id" :"0282e0e58a5c404fbd15261f11c2ab6a",
@@ -27,7 +50,18 @@
         "num_of_recipes": "20",
         "likes": "600",
         "chef_img": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-05/Catherine_ann_cora_%C2%A9courtesyofCatherineAnnCora_0.jpg",
-        "ratings" : "4.7"
+        "ratings" : "4.7",
+        "recipes_name" : {
+            "dish_1_name" : "Souvlaki",
+            "dish_2_name" : "Spanakopita",
+            "dish_3_name" : "Lamb chops"
+        },
+        "recipes_img" :{
+            "dish_1_img" : "https://c4.wallpaperflare.com/wallpaper/574/935/622/grilled-food-cuisine-yakitori-shashlik-wallpaper-preview.jpg",
+            "dish_2_img" : "https://c4.wallpaperflare.com/wallpaper/886/874/504/pizza-cheese-tomatoes-mushrooms-wallpaper-preview.jpg",
+            "dish_3_img" : "https://c1.wallpaperflare.com/preview/845/355/682/resort-yummy-delicious-lamb-chop.jpg"
+        },
+        "bio" : "In addition to being a celebrated chef, Cat Cora is an accomplished lifestyle entrepreneur, author, restaurateur, contributing editor and television personality. She made television history in 2005 when she became the first female Iron Chef on Food Network’s Iron Chef America. Cat recently joined RWS Resorts to launch her Ocean by Cat Cora restaurant on Sentosa Island in Singapore"
     },
     {
         "_id" :"0282e0e58a5c404fbd15261f11c2ab6a",
@@ -37,7 +71,18 @@
         "num_of_recipes": "30",
         "likes": "1000",
         "chef_img": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-05/DominiqueCrenn%C2%A9Jordan-Wise_1.jpg",
-        "ratings" : "4.7"
+        "ratings" : "4.7",
+        "recipes_name" : {
+            "dish_1_name" : "Roast Chicken",
+            "dish_2_name" : "Lemon Bars",
+            "dish_3_name" : "Filet Mignon"
+        },
+        "recipes_img" :{
+            "dish_1_img" : "https://c4.wallpaperflare.com/wallpaper/704/827/686/chicken-meat-grill-lemon-wallpaper-preview.jpg",
+            "dish_2_img" : "https://c4.wallpaperflare.com/wallpaper/92/258/373/bar-beverage-cocktail-cold-wallpaper-preview.jpg",
+            "dish_3_img" : "https://c4.wallpaperflare.com/wallpaper/339/125/238/wine-food-meat-bbq-wallpaper-preview.jpg"
+        },
+        "bio" : "Ina Rosenberg Garten  born February 2, 1948 is an American author, host of the Food Network program Barefoot Contessa, and a former staff member of the Office of Management and Budget.[2] Among her dishes are Perfect Roast Chicken, Weeknight Bolognese, French Apple Tart, and a simplified version of beef bourguignon. Her culinary career began with her gourmet food store, Barefoot Contessa; Garten then expanded her activities to many best-selling cookbooks, magazine columns, and a popular Food Network television show."
     },
     {
         "_id" :"0282e0e58a5c404fbd15261f11c2ab6a",
@@ -47,7 +92,18 @@
         "num_of_recipes": "40",
         "likes": "1500",
         "chef_img": "https://onecms-res.cloudinary.com/image/upload/v1640661535/8days-migration/chef-wolfgang-puck-web-data.jpg",
-        "ratings" : "4.5"
+        "ratings" : "4.5",
+        "recipes_name" : {
+            "dish_1_name" : "Pizza",
+            "dish_2_name" : "Chicken Pot Pie",
+            "dish_3_name" : "Grilled Salmon"
+        },
+        "recipes_img" :{
+            "dish_1_img" : "https://c4.wallpaperflare.com/wallpaper/234/543/684/food-pizza-wallpaper-preview.jpg",
+            "dish_2_img" : "https://c4.wallpaperflare.com/wallpaper/768/217/159/lemon-food-chicken-baked-wallpaper-preview.jpg",
+            "dish_3_img" : "https://c4.wallpaperflare.com/wallpaper/966/261/177/salmon-teriyaki-fish-meat-wallpaper-preview.jpg"
+        },
+        "bio" : "Wolfgang Puck was born in Wolfgang Johannes Puck on  July 8, 1949.HE is arguably the first celebrity chef, ever. He marked a clear milestone in the role that renowned chefs played in pop culture. Today, this Austrian/American Chef is the head of a huge gastronomic empire. But today let’s start at the beginning"
     },
     {
         "_id" :"0282e0e58a5c404fbd15261f11c2ab6a",
@@ -57,7 +113,18 @@
         "num_of_recipes": "25",
         "likes": "900",
         "chef_img": "https://images.pexels.com/photos/1397514/pexels-photo-1397514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "ratings" : "4.8"
+        "ratings" : "4.8",
+        "recipes_name" : {
+            "dish_1_name" : "Macaroni and Cheese",
+            "dish_2_name" : "Roast Turkey",
+            "dish_3_name" : "Lemon Bars"
+        },
+        "recipes_img" :{
+            "dish_1_img" : "https://c4.wallpaperflare.com/wallpaper/95/386/436/pasta-sauce-bowl-vegetables-wallpaper-preview.jpg",
+            "dish_2_img" : "https://c4.wallpaperflare.com/wallpaper/769/620/959/chicken-vegetables-dinner-wallpaper-preview.jpg",
+            "dish_3_img" : "https://c1.wallpaperflare.com/preview/872/196/852/drink-glass-cold-fruit.jpg"
+        },
+        "bio" : "Martha Stewart, née Martha Helen Kostyra, born August 3, 1941, Jersey City, New Jersey, U.S., American entrepreneur and domestic lifestyle innovator who built a catering business into an international media and home-furnishing corporation, Martha Stewart Living Omnimedia, Inc.Raised in Nutley, New Jersey, Martha Kostyra grew up in a Polish American household where the traditional arts of cooking."
     },
     {
         "_id" :"0282e0e58a5c404fbd15261f11c2ab6a",
@@ -67,7 +134,18 @@
         "num_of_recipes": "18",
         "likes": "500",
         "chef_img": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-05/ChefAchatz_0.jpg",
-        "ratings" : "4.7"
+        "ratings" : "4.7",
+        "recipes_name" : {
+            "dish_1_name" : "The Clam fish",
+            "dish_2_name" : "Black Truffle Explosion",
+            "dish_3_name" : "The ShackBurger"
+        },
+        "recipes_img" :{
+            "dish_1_img" : "https://c4.wallpaperflare.com/wallpaper/839/882/390/fish-dish-vegetables-composition-wallpaper-preview.jpg",
+            "dish_2_img" : "https://c1.wallpaperflare.com/preview/870/355/802/abstract-american-background-barbecue.jpg",
+            "dish_3_img" : "https://c4.wallpaperflare.com/wallpaper/227/705/204/burgers-drinking-glass-fries-food-wallpaper-preview.jpg"
+        },
+        "bio" : "Grant Achatz, (born April 25, 1974, St. Clair, Michigan, U.S.), American chef whose culinary innovations made him a leader in the cuisine inspired by molecular gastronomy.Achatz remained busy, and in 2011 he opened The Aviary cocktail lounge; Next, a prix-fixe restaurant that sold tickets (rather than taking reservations) for a themed menu that was replaced several times a year; and The Office, a 14-seat speakeasy-style lounge underneath The Aviary."
     },
     {
         "_id" :"0282e0e58a5c404fbd15261f11c2ab6a",
@@ -77,7 +155,19 @@
         "num_of_recipes": "50",
         "likes": "1800",
         "chef_img": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-05/TK_Portrait_%28c%29DEBORAHJONES-6.21.37-PM.jpg",
-        "ratings" : "4.9"
+        "ratings" : "4.9",
+        "recipes_name" : {
+            "dish_1_name" : "Oysters and Pearls",
+            "dish_2_name" : "Butter-Poached Lobster",
+            "dish_3_name" : "The Whole Bird"
+        },
+        "recipes_img" :{
+            "dish_1_img" : "https://c1.wallpaperflare.com/preview/39/735/771/bars-ramen-in-saigon-ramen-in-q1-saigon-japan-dish-ramen-daiichi-ramen.jpg",
+            "dish_2_img" : "https://c4.wallpaperflare.com/wallpaper/356/410/384/lobster-wallpaper-preview.jpg",
+            "dish_3_img" : "https://c4.wallpaperflare.com/wallpaper/768/217/159/lemon-food-chicken-baked-wallpaper-preview.jpg"
+        },
+        "bio" : "Chef Thomas Keller is renowned for his culinary skills and high standards. He has established a collection of restaurants that sets a new paradigm within the hospitality profession, including The French Laundry, in Napa Valley, and Per Se, in New York, among others. He is the first and only American-born chef to hold multiple three-star ratings from the prestigious Michelin Guide, as well as the first American male chef to be designated a Chevalier of The French Legion of Honor. He has received countless accolades, including The Culinary Institute of America’s “Chef of the Year."
+        
     },
     {
         "_id" :"0282e0e58a5c404fbd15261f11c2ab6a",
@@ -87,8 +177,17 @@
         "num_of_recipes": "60",
         "likes": "2000",
         "chef_img": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-05/Wolfgang%20Puck%20chef_0.jpg",
-        "ratings" : "4.6"
+        "ratings" : "4.6",
+        "recipes_name" : {
+            "dish_1_name" : "Smoked Salmon Pizza",
+            "dish_2_name" : "Chinois Chicken Salad",
+            "dish_3_name" : "The Juicy Lucy"
+        },
+        "recipes_img" :{
+            "dish_1_img" : "https://c4.wallpaperflare.com/wallpaper/1008/880/887/food-pizza-tomato-wallpaper-preview.jpg",
+            "dish_2_img" : "https://c4.wallpaperflare.com/wallpaper/765/782/347/salad-meat-vegetables-plate-wallpaper-preview.jpg",
+            "dish_3_img" : "https://c4.wallpaperflare.com/wallpaper/209/721/107/food-burger-wallpaper-preview.jpg"
+        },
+        "bio" : "Puck was born on January 8, 1949, in the Austrian town of St. Veit an der Glan. His mother, Maria, was a restaurant chef, while his father, Josef, was a coal miner.Spago Beverly Hills received two Michelin stars; the steakhouse CUT by Wolfgang Puck in Beverly Hills has received one; the Singapore CUT location has also received one."
     }
-    
-    
 ]
